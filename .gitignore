@@ -8,6 +8,7 @@ performance/temp*.html
 .idea/workspace.xml
 *~
 *.swp
+*.js.map
 angular.js.tmproj
 /node_modules/
 bower_components/
